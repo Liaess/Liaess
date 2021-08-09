@@ -12,7 +12,7 @@ Olá me chamo Yann Melo Eduardo, eu nasci no Brazil em 1997 e atualmente eu moro
 [![GitHub followers](https://img.shields.io/github/followers/Liaess?label=Follow&style=social)](https://github.com/Liaess?tab=followers)
 * * *
 <div align="center">
-  <h2>Languages e tools 🛠</h2>
+  <h3>Languages e tools 🛠</h3>
   <img src="https://img.shields.io/badge/-react-&?style=for-the-badge&logo=react&color=black" alt="React logo" />
   <img src="https://img.shields.io/badge/-Typescript-&?style=for-the-badge&logo=typescript&color=black" alt="React logo" />
   <img src="https://img.shields.io/badge/-Javascript-&?style=for-the-badge&logo=javascript&color=black" alt="Javascript logo" />
@@ -46,7 +46,7 @@ My name is Yann Melo Eduardo, I was born in Brazil, in 1997, and currently I liv
 [![GitHub followers](https://img.shields.io/github/followers/Liaess?label=Follow&style=social)](https://github.com/Liaess?tab=followers)
 * * *
 <div align="center">
-  <h2>Languages e tools 🛠</h2>
+  <h3>Languages e tools 🛠</h3>
   <img src="https://img.shields.io/badge/-react-&?style=for-the-badge&logo=react&color=black" alt="React logo" />
   <img src="https://img.shields.io/badge/-Typescript-&?style=for-the-badge&logo=typescript&color=black" alt="React logo" />
   <img src="https://img.shields.io/badge/-Javascript-&?style=for-the-badge&logo=javascript&color=black" alt="Javascript logo" />
