@@ -7,11 +7,6 @@ Olá me chamo Yann Melo Eduardo, eu nasci no Brazil em 1997 e atualmente eu moro
 - 😄 Pronome: ele/dele
 - ⚡ Fato curiso: Apaixonado por light novels japonesas
 * * *
-### Paixões 🥰:
-- 👪 Família  
-- 🎸 Música  
-- 🖥 Tecnologia  
-* * *
 ### Entre em contato comigo 🤝:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yann.melO@gmail.com)](mailto:yann.melo@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/Liaess?label=Follow&style=social)](https://github.com/Liaess?tab=followers)
@@ -41,11 +36,6 @@ My name is Yann Melo Eduardo, I was born in Brazil, in 1997, and currently I liv
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I love japanese light novels.
 - 🇧🇷 Brasilian
-* * *
-### Passions 🥰:
-- 👪 Family  
-- 🎸 Music  
-- 🖥 Technology  
 * * *
 ### Contact me 🤝:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yann.melo@gmail.com)](mailto:yann.melo@gmail.com)
