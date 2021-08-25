@@ -1,6 +1,6 @@
 ## Hi there! 👋
 ### Sobre mim 🤔
-Olá me chamo Yann Melo Eduardo, eu nasci no Brazil em 1997 e atualmente eu moro no Rio de Janeiro. Sou apaixonado por codar pois sempre estou aprendendo! [Alguma coisas legais](https://github.com/Liaess) aqui! 😁
+Olá me chamo Yann Melo Eduardo, eu nasci no Brasil em 1997 e atualmente eu moro no Rio de Janeiro. Sou apaixonado por codar pois sempre estou aprendendo! [Alguma coisas legais](https://github.com/Liaess) aqui! 😁
 - 👨🏻‍🎓 Cursando Matemática
 - 🌱 Desenvolverdor Full Stack
 - 💬 Me pergunte ... Qualquer coisa
