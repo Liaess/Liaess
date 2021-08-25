@@ -1,15 +1,15 @@
 ## Hi there! 👋
 ### Sobre mim 🤔
-Olá me chamo Yann Melo Eduardo, eu nasci no Brasil em 1997 e atualmente eu moro no Rio de Janeiro. Sou apaixonado por codar pois sempre estou aprendendo! [Alguma coisas legais](https://github.com/Liaess) aqui! 😁
-- 👨🏻‍🎓 Cursando Matemática
+Olá me chamo Yann Melo Eduardo, eu nasci no Brasil em 1997 e atualmente eu moro no Rio de Janeiro. Sou apaixonado por codar pois sempre estou aprendendo! [Alguma coisas legais](https://github.com/Liaess?tab=repositories) aqui! 😁
 - 🌱 Desenvolverdor Full Stack
+- 👨🏻‍🎓 Cursando Matemática
 - 💬 Me pergunte ... Qualquer coisa
 - 😄 Pronome: ele/dele
 - ⚡ Fato curiso: Apaixonado por light novels japonesas
 * * *
 ### Entre em contato comigo 🤝:
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yann.melO@gmail.com)](mailto:yann.melo@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Liaess?label=Follow&style=social)](https://github.com/Liaess?tab=followers)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:yann.melO@gmail.com)](mailto:yann.melo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-melo/)
 * * *
 <div align="center">
   <h3>Linguagens e ferramentas 🛠</h3>
@@ -33,17 +33,17 @@ Olá me chamo Yann Melo Eduardo, eu nasci no Brasil em 1997 e atualmente eu moro
 
 ## Hi there! 👋
 ### About Me 🤔
-My name is Yann Melo Eduardo, I was born in Brazil, in 1997, and currently I live in Rio de Janeiro. I love code because i'm always learning. [Cool things](https://github.com/Liaess) here! 😁
-- 👨🏻‍🎓 Currently studying Math
+My name is Yann Melo Eduardo, I was born in Brazil, in 1997, and currently I live in Rio de Janeiro. I love code because i'm always learning. [Cool things](https://github.com/Liaess?tab=repositories) here! 😁
 - 🌱 Full Stack Developer
+- 👨🏻‍🎓 Currently studying Math
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I love japanese light novels.
-- 🇧🇷 Brasilian
+- 🇧🇷 Brazilian
 * * *
 ### Contact me 🤝:
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yann.melo@gmail.com)](mailto:yann.melo@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/Liaess?label=Follow&style=social)](https://github.com/Liaess?tab=followers)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:yann.melO@gmail.com)](mailto:yann.melo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-melo/)
 * * *
 <div align="center">
   <h3>Languages e tools 🛠</h3>
