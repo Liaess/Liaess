@@ -22,6 +22,7 @@ My name is Yann Melo Eduardo, I was born in Brazil, in 1997, and currently I liv
   <img src="https://img.shields.io/badge/-NodeJS-&?style=for-the-badge&logo=nodedotjs&color=black" alt="Node logo" />
   <img src="https://img.shields.io/badge/-Jest-&?style=for-the-badge&logo=jest&color=black" alt="Jest logo" />
   <img src="https://img.shields.io/badge/-PostgreSQL-&?style=for-the-badge&logo=postgresql&color=black" alt="Postgres logo" />
+  <img src="https://img.shields.io/badge/-MongoDB-&?style=for-the-badge&logo=mongodb&color=black" alt="Mongo logo" />
   <img src="https://img.shields.io/badge/-Express-&?style=for-the-badge&logo=express&color=black" alt="Express logo" />
   <img src="https://img.shields.io/badge/-Github-&?style=for-the-badge&logo=github&color=black" alt="Github logo" />
   <img src="https://img.shields.io/badge/-Git-&?style=for-the-badge&logo=git&color=black" alt="Git logo" />
