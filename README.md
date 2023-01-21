@@ -9,7 +9,7 @@ My name is Yann Melo Eduardo, I was born in Brazil, in 1997, and currently I liv
 - 🇧🇷 Brazilian
 
 ### Contact me 🤝:
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=mailto:yann.melO@gmail.com)](mailto:yann.melo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yann.melo@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yann-melo/)
 
 <div align="center">
